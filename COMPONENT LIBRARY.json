@@ -1,6 +1,6 @@
         const library = {
             "Arduino Uno": {
-                url: "https://github.com/AbishekSweetan/circuit-components/blob/main/Arduino%20uno.png?raw=true",
+                url: "https://raw.githubusercontent.com/AbishekSweetan/circuit-components/afcab0a1bdff0367c1f1cdf6f203a1179cb2a673/arduino_Uno_Rev3_breadboard.svg",
                 pins: {
                     "A5.2": { x: 94, y: 9 },
                     "A4.2": { x: 104, y: 9 },
@@ -36,7 +36,7 @@
                 }
             },
             "led": {
-                url: "https://github.com/AbishekSweetan/circuit-components/blob/main/5mm%20red%20LED.png?raw=true",
+                url: "https://raw.githubusercontent.com/AbishekSweetan/circuit-components/afcab0a1bdff0367c1f1cdf6f203a1179cb2a673/LED-5mm-red-leg.svg",
                 pins: { "C": { x: 5, y: 38 }, "A": { x: 15, y: 38 } }
             }
         };
