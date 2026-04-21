@@ -26,10 +26,10 @@
       "A": { "x": 15, "y": 38 }
     }
   },
-  "LED-5mm": {
+  "LED-3mm": {
     "w": 15,
     "h": 29,
-    "url": "https://raw.githubusercontent.com/AbishekSweetan/circuit-components/d6b4bb9c809a674f2e97cedb5ca9ab34ebb4ac85/LED-3mm-red-leg.svg",
+    "url": "https://raw.githubusercontent.com/AbishekSweetan/circuit-components/2a1b4bafd20f60344c807b7e979670a5bf2e6210/components%20images/LED-3mm.svg",
     "pins": {
       "C": { "x": 4, "y": 28 },
       "A": { "x": 11, "y": 28 }
