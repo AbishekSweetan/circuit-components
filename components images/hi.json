@@ -1,0 +1,17 @@
+{
+    "component": "led3mm",
+    "width": 15,
+    "height": 29,
+    "pins": [
+        {
+            "pin": "A",
+            "x": 11,
+            "y": 28
+        },
+        {
+            "pin": "C",
+            "x": 4,
+            "y": 28
+        }
+    ]
+}
