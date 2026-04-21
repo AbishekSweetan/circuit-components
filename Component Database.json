@@ -2,7 +2,7 @@
   "Arduino Uno": {
     "w": 280,
     "h": 200,
-    "url": "https://raw.githubusercontent.com/AbishekSweetan/circuit-components/73071e9ddc0cefb58271c823d7f0aae42c4e84b8/arduino_Uno_Rev3_breadboard.svg",
+    "url": "https://raw.githubusercontent.com/AbishekSweetan/circuit-components/2a1b4bafd20f60344c807b7e979670a5bf2e6210/components%20images/arduino_Uno.svg",
     "pins": {
                     "A5.2": { x: 94, y: 9 }, "A4.2": { x: 104, y: 9 }, "AREF": { x: 113, y: 9 },
                     "GND.1": { x: 123, y: 9 }, "D13": { x: 133, y: 9 }, "D12": { x: 142, y: 9 },
@@ -20,7 +20,7 @@
   "LED-5mm": {
     "w": 22,
     "h": 42,
-    "url": "https://raw.githubusercontent.com/AbishekSweetan/circuit-components/73071e9ddc0cefb58271c823d7f0aae42c4e84b8/LED-5mm-red-leg.svg",
+    "url": "https://raw.githubusercontent.com/AbishekSweetan/circuit-components/2a1b4bafd20f60344c807b7e979670a5bf2e6210/components%20images/LED-5mm.svg",
     "pins": {
       "C": { "x": 5, "y": 38 },
       "A": { "x": 15, "y": 38 }
